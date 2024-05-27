@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+}
+
+
+.navlink{
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+    justify-content: space-evenly;
+
+}
+.navlink:hover {
+    text-decoration: underline;
+    color: rgb(112, 0, 112);
+    line-height: 10px;
+}
